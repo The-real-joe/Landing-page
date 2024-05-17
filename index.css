@@ -1,0 +1,81 @@
+.navbar {
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center; /* Align items vertically in the center */
+    padding: 10px 20px; /* Add some padding to the navbar */
+    margin-left: 290px;
+    margin-right: 290px;
+}
+
+.navbar h2 {
+    margin-right: auto; /* Push the h2 to the left */
+}
+
+.navbar p {
+    margin: 0 10px; /* Add some margin to the p elements */
+    cursor: pointer; /* Change the cursor to pointer on hover */
+}
+
+.navbar p:hover {
+    text-decoration: underline; /* Underline the text on hover */
+}
+
+.shipping h3 {
+    text-align: center;
+    margin-left: 290px;
+    margin-right: 290px;
+}
+
+.product {
+    text-align: center;
+}
+
+.paragraph {
+   text-align: center;
+   margin-left: 390px;
+   margin-right: 390px;
+}
+
+.specs {
+    text-align: center;
+}
+
+.specs_paragraph h3 {
+    color: orange;
+    text-align: center;
+}
+
+.specs_paragraph p {
+    text-align: center;
+    margin-left: 390px;
+    margin-right: 390px;
+    color: white;
+}
+
+.specs_paragraph {
+    background-color: black;
+    margin-left: 290px;
+    margin-right: 290px;
+}
+
+.converter {
+    text-align: center;
+}
+
+.bg_image {
+    
+    background-image: url("bg-image.png");
+    margin-left: 290px;
+    margin-right: 290px;
+}
+
+.bg_image h3 {
+    text-align: center;
+    color: orange;
+}
+
+.bg_image p {
+    text-align: center;
+    color: white;
+}
